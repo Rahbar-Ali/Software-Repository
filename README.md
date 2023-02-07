@@ -14,16 +14,16 @@ A Program to analyze a Git Repository and collect Information about its commits,
 Where **'[repo_path]'** is the file path to the Git repository you want to analyze. Replace **'username'** with the username of the repository owner, and **'repository'** with the name of repository you want to clone. 
 First you need to clone Git Repository to your computer
 
-##Output
+## Output
 The Program will produce a file named **'output,json'** in the same directory as the program, containing the following information:
 
 *Location of the repository
 *Total number of commits
 *Information about each commits:
-    *Number of test classes
-    *Number of test methods
-    *List of test classes
-    *List of test methods
+  *Number of test classes
+  *Number of test methods
+  *List of test classes
+  *List of test methods
 
 #Notes
 
