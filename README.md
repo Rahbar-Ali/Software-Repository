@@ -9,9 +9,9 @@ A Program to analyze a Git Repository and collect Information about its commits,
 
 ## Usage
 * python software_repository.py [repo_path]
-* git clone https://github.com/<username>/<repository>.git
+* git clone https://github.com/username/repository.git
 
-Where **'[repo_path]'** is the file path to the Git repository you want to analyze. Replace **'<username>'** with the username of the repository owner, and **'<repository>'** with the name of repository you want to clone. 
+Where **'[repo_path]'** is the file path to the Git repository you want to analyze. Replace **'username'** with the username of the repository owner, and **'repository'** with the name of repository you want to clone. 
 First you need to clone Git Repository to your computer
 
 ##Output
