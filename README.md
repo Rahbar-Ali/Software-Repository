@@ -17,13 +17,13 @@ First you need to clone Git Repository to your computer
 ## Output
 The Program will produce a file named **'output,json'** in the same directory as the program, containing the following information:
 
-*Location of the repository
-*Total number of commits
-*Information about each commits:
-  *Number of test classes
-  *Number of test methods
-  *List of test classes
-  *List of test methods
+* Location of the repository
+* Total number of commits
+* Information about each commits:
+  * Number of test classes
+  * Number of test methods
+  * List of test classes
+  * List of test methods
 
 #Notes
 
