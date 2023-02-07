@@ -25,7 +25,7 @@ The Program will produce a file named **'output,json'** in the same directory as
   * List of test classes
   * List of test methods
 
-#Notes
+# Notes
 
-    * The program assumes that the Git repository is valid and that required softwares **(Python, Git, Grep)** is installed on your system
-    * Make sure that a file path to the repository is correctly specified. If path is incorrect or the repository does not exist, program will produce an error
+* The program assumes that the Git repository is valid and that required softwares **'(Python, Git, Grep)'** is installed on your system
+* Make sure that a file path to the repository is correctly specified. If path is incorrect or the repository does not exist, program will produce an error
