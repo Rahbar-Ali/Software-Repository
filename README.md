@@ -6,6 +6,7 @@ A Program to analyze a Git Repository and collect Information about its commits,
 * Python 3.x
 * Git
 * Grep
+* Cloned git repository
 
 ## Usage
 * python software_repository.py [repo_path]
